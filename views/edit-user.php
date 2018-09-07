@@ -60,8 +60,8 @@
       </a>
       <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
 
-        <a class="dropdown-item" href="https://v4-alpha.getbootstrap.com/">Actualizar mis datos <i class="fas fa-user-edit"></i></a>
-        <a class="dropdown-item" href="https://getbootstrap.com/docs/3.3/"> Cerrar sesión <i class="fas fa-sign-out-alt"></i></a>
+         <a class="dropdown-item" href="edit-user.php">Actualizar mis datos <i class="fas fa-user-edit"></i></a>
+        <a class="dropdown-item" href="logout.php"> Cerrar sesión <i class="fas fa-sign-out-alt"></i></a>
        
       </div>
     </li>
