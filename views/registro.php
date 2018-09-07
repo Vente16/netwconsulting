@@ -61,7 +61,7 @@
                           <div class="notification is-info noti-success">
                               <button class="delete msj"></button>
                               <strong>Se ha registrado correctamente, ya puedes acceder!</strong>
-                          </div
+                          </div>
 
 
                         </form>
