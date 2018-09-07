@@ -45,7 +45,7 @@
 
                             <div class="field">
                                 <div class="control">
-                                    <input class="input is-large" type="text" placeholder="Ingresa tu nombre" autofocus="" id="apellido" required min="3" max="30">
+                                    <input class="input is-large" type="text" placeholder="Ingresa tu apellido" autofocus="" id="apellido" required min="3" max="30">
                                 </div>
                             </div>
                           
